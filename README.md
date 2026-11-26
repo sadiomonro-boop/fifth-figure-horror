@@ -12,7 +12,7 @@ Write the scariest horror story you can in exactly two sentences. Free entry, bl
 node main.ts
 ```
 
-The program writes one horror story of exactly two sentences (163 characters) to `/output/entry.txt`. The story was picked by blind-testing eight fresh replacement candidates against each other and against six strong rivals with a free model as proxy judge; the winner is recorded in `BUILD-REPORT.json`. Sentence one sets a calm, everyday fact; sentence two reframes it — the lost keys were taken, not lost, and the new spare is warm, so whoever copied it has just been here.
+The program writes one horror story of exactly two sentences (162 characters) to `/output/entry.txt`. The story was picked by blind-testing eight fresh replacement candidates against each other and against six strong rivals with a free model as proxy judge; the winner is recorded in `BUILD-REPORT.json`. Sentence one sets a calm, everyday fact; sentence two reframes it — the lost keys were taken, not lost, and the new spare is warm, so whoever copied it has just been here.
 
 ## The story
 

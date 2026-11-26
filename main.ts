@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The entry: a two-sentence horror story, chosen by blind testing
 // 8 fresh replacement candidates (spare-key vehicle) against each
 // other and against 6 strong rivals with a free model as proxy judge
-// (see BUILD-REPORT.json). Winner: D5-final, 163 characters,
+// (see BUILD-REPORT.json). Winner: D5-final, 162 characters,
 // 2 sentences. Replaces the critic-rejected drawing-trope story.
 const STORY =
   "My son has lost his house key three times this term, so I keep a spare on the hook by the door. " +
