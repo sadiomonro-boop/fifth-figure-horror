@@ -1,12 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // The entry: a two-sentence horror story, chosen by blind testing
-// 9 original candidates against each other and against two classic
-// rivals with a free model as proxy judge (see BUILD-REPORT.json).
-// Winner: C7, 164 characters, 2 sentences.
+// 8 fresh replacement candidates (spare-key vehicle) against each
+// other and against 6 strong rivals with a free model as proxy judge
+// (see BUILD-REPORT.json). Winner: D5-final, 163 characters,
+// 2 sentences. Replaces the critic-rejected drawing-trope story.
 const STORY =
-  "My son's teacher called to say he drew our family again in class today. " +
-  "There were five of us in the picture, and the fifth was standing behind me, holding my hand.";
+  "My son has lost his house key three times this term, so I keep a spare on the hook by the door. " +
+  "This morning two spares hung on the hook, and the new one is warm.";
 
 function countSentences(text) {
   return text
